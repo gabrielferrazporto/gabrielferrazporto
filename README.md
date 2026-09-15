@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Gabriel Ferraz
 
-🎓 **Estudante de Sistemas de Informação | 💻 Desenvolvedor Front-end**
+🎓 **`Estudante de Sistemas de Informação | 💻 Desenvolvedor Front-end`**
 
 🇧🇷 Brasil
 
